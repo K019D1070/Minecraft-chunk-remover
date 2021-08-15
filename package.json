@@ -1,0 +1,20 @@
+{
+  "name": "region-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "remove": "run-script-os",
+    "remove:win32": "node src\\index.mjs"
+  },
+  "author": "K019D1070",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "run-script-os": "^1.1.6"
+  }
+}
