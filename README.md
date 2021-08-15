@@ -1,4 +1,4 @@
-# Minecraft regenerator
+# Minecraft remover
 
 ## 概要
 指定された一部のチャンクを除いて,指定されたチャンクがある.mcaファイルからチャンクを削除します。
