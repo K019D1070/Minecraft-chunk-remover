@@ -1,6 +1,6 @@
 {
-  "every": "new Date().getDay() == 2",
-  "serverPath":"D:\\tmp\\mc_kamata\\",
+  "every": "new Date().getDay() == 1",
+  "serverPath":"D:\\Minecraft\\mc_kamata\\",
   "worlds": [
     {
       "name": "resource",
@@ -11,6 +11,11 @@
         { "x":16, "z":8 },
         { "x":16, "z":9 },
         { "x":16, "z":10 }
+      ]
+    },
+    {
+      "name": "resource_nether\\DIM-1",
+      "keepChunk":[
       ]
     }
   ]
