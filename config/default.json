@@ -1,5 +1,4 @@
 {
-  "every": "new Date().getDay() == 1",
   "serverPath":"D:\\Minecraft\\mc_kamata\\",
   "worlds": [
     {

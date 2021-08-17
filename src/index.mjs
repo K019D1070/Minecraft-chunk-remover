@@ -5,7 +5,6 @@ import { Buffer } from 'buffer';
 import path from "path";
 
 const worlds = config.get("worlds");
-const every = config.get("every");
 const serverPath = config.get("serverPath");
 
 main();
