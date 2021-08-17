@@ -47,7 +47,7 @@ function main(){
           });
           await regionHandle.close();
           await fsp.writeFile(path.join(serverPath, world.name, "region", region), processedArrayBuffer);
-          console.log("Edited region:", region);
+          console.log("Edited region:", path.join(serverPath, world.name, "region", region));
         });
       });
     });
